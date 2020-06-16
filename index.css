@@ -175,6 +175,12 @@ h1::after{
     padding-right: 5%;
     
 }
+#galleryButtonVM a:hover {
+    color: rgb(0, 255, 149);
+}
+#galleryButtonVM {
+    margin-left: 1160px;
+}
 
 
 
