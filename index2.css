@@ -1,5 +1,18 @@
-body {
-    background-color: rgb(212, 204, 192);
-    font-family: sans-serif;
-    border: 1px groove blueviolet;
+#wholeGallery {
+  border: 3px double green; 
 }
+div.roow {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 400px;
+  }
+  
+  div.roow:hover {
+    border: 1px solid #777;
+  }
+  
+  div.roow img {
+    width: 100%;
+    height: auto;
+  }
