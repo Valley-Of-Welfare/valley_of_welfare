@@ -23,9 +23,10 @@
 .navbar-toggler{
     border: none! important;   
 }
-#orglogo {
-    border-radius: 51%;
+.orgLogo {
+    border-radius: 50%;
 }
+
 .nav-link{
     color: #555! important;
     font-weight: 700;
