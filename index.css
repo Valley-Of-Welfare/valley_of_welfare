@@ -21,10 +21,11 @@
     color: gold! important;
 }
 .navbar-toggler{
-    border: none! important;
-   
+    border: none! important;   
 }
-
+#orglogo {
+    border-radius: 50%;
+}
 .nav-link{
     color: #555! important;
     font-weight: 700;
